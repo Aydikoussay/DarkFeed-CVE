@@ -53,13 +53,13 @@ Built to answer one question fast: **"Is this target exploitable right now?"**
 ```bash
 # Clone the repo
 git clone https://github.com/Aydikoussay/DarkFeed-CVE
-cd darkfeed
+cd DarkFeed-CVE
 
 # Install dependencies (only requests)
 pip install requests
 
 # Run
-python3 darkfeed.py
+python3 DarkFeed.py
 ```
 
 ---
