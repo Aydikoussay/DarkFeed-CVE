@@ -167,15 +167,6 @@ This tool is intended for authorized penetration testing, security research, and
 
 ---
 
-## Author
+## Author :  **Atrox** 
 
-**Atrox** — Senior Penetration Tester
 
-> Built out of frustration with slow, GUI-heavy tools during real engagements.  
-> DARKFEED gives you everything you need, in your terminal, in seconds.
-
----
-
-## License
-
-MIT License — free to use, modify, and distribute with attribution.
