@@ -52,7 +52,7 @@ Built to answer one question fast: **"Is this target exploitable right now?"**
 
 ```bash
 # Clone the repo
-git clone https://github.com/Atrox/darkfeed.git
+git clone [https://github.com/Atrox/darkfeed.git](https://github.com/Aydikoussay/DarkFeed-CVE)
 cd darkfeed
 
 # Install dependencies (only requests)
